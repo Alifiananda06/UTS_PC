@@ -1,7 +1,7 @@
 # UTS_PC
 
 ```
-Alifia Ananda Puteri (312210222)
+Alifia Ananda Puteri (312210168)
 Febriyani Nurhida (312210222)
 TI.22.A2
 ```
